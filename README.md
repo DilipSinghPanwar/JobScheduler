@@ -1,1 +1,1 @@
-JobScheduler (API 21 and above)
+Job Scheduler API supports minSdkVersion from 21 (Lollipop).
